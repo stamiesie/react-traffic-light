@@ -4,6 +4,7 @@
   height: 600px;
   border: 2px solid black;
   border-radius: 20px;
+  background-color: rgb(19, 15, 67);
 }
 
 .traffic-light-div {
